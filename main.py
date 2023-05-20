@@ -222,3 +222,4 @@ if __name__ == '__main__':
         clear_data()
         importFiles()
         createExportFile()
+    print('done')
